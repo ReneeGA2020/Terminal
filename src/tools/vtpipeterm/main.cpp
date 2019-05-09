@@ -1,5 +1,7 @@
-// Copyright (c) Microsoft Corporation.
+﻿// Copyright (c) Microsoft Corporation.
 // Licensed under the MIT license.
+#pragma warning (disable:4566)
+
 
 #include <windows.h>
 #include <wil\Common.h>
